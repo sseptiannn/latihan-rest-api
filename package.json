@@ -1,0 +1,25 @@
+{
+  "name": "latihan_restapi",
+  "version": "1.0.0",
+  "description": "latihan aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sseptiannn/latihan-rest-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "jg"
+  ],
+  "author": "sseptiannn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sseptiannn/latihan-rest-api/issues"
+  },
+  "homepage": "https://github.com/sseptiannn/latihan-rest-api#readme"
+}
