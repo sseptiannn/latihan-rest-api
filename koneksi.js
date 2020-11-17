@@ -2,7 +2,7 @@ var mysql = require('mysql');
 
 // buat koneksi database
 const conn = mysql.createConnection({
-    host: 'localhost:8080',
+    host: 'localhost',
     user: 'root',
     password: '',
     database: 'phpmvc'
